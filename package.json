@@ -1,0 +1,12 @@
+{
+  "name": "ddctl-plugin-robotjs",
+  "version": "1.0.0",
+  "description": "RobotJS plugin for ddCtl Server",
+  "main": "index.js",
+  "author": "JeffreyDD",
+  "license": "ISC",
+  "pluginName": "robotjs",
+  "dependencies": {
+      "robotjs": "^0.4.5"
+  }
+}
